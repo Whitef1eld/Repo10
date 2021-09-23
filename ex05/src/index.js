@@ -14,5 +14,4 @@ function myFunction(name) {
 }
 
 myFunction("Paragon"); // change this line
-console.log(myFunction("Paragon"));
 module.exports = { school, myFunction };
